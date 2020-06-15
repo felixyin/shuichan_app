@@ -1,0 +1,14 @@
+﻿{
+    "appid":"H56E0375C",
+    "iOS":{
+    	"version":"1.0.0",
+    	"title":"青岛职业技能培训",
+    	"note":"发现有新版本，请点击立即更新，\n更新说明：\n1、修复题库中的部分错误\n2、模拟测试增加了解析功能，现可以查看正确答案\n3、收藏库、错题库，修复了不联网下一直显示加载中的bug\n4、学习数据联网可同步，离线状态仍可用\n5、应用已最大优化流量消耗，节省流量",
+    	"url":"itms-services://?action=download-manifest&amp;url=https://astroway.net:8444/appInstall/LeXue/LeXue_SSL.plist"
+    },
+    "Android":{
+    	"version":"1.0.0",
+    	"note":"发现有新版本，请点击立即更新，\n更新说明：\n1、修复题库中的部分错误\n2、模拟测试增加了解析功能，现可以查看正确答案\n3、收藏库、错题库，修复了不联网下一直显示加载中的bug\n4、学习数据联网可同步，离线状态仍可用\n5、应用已最大优化流量消耗，节省流量",
+    	"url":"http://astroway.net:8090/appInstall/LeXue/H56E0375C.apk"
+    }
+}
